@@ -2,3 +2,5 @@ build
 .vs
 tags
 tmp
+CMakeUserPresets.json
+src/**/*.exe
